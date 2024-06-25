@@ -1,8 +1,0 @@
-npm run build
-echo www.tokayozgur.com > dist/CNAME
-gh-pages -d dist
-
-
-
-GitHub repository'nizde Settings > Pages 
-Branch bölümünde gh-pages branch'ini ve root dizinini seç
